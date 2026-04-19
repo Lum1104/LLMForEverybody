@@ -58,10 +58,10 @@
 | 2021-12 | [Stable Diffusion](https://arxiv.org/abs/2112.10752) | 潜空间扩散模型推动文生图开源化 | [<img src="https://learnllm.ai/video_cover/Stable_Diffusion.jpg" width="200">](https://www.bilibili.com/video/BV1HGDvBfE6g) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=stable-diffusion&ref=github) |
 | 2022-02-08 | [AlphaCode](https://arxiv.org/abs/2203.07814) | 竞赛级代码生成系统 | [<img src="https://learnllm.ai/video_cover/alphacode.jpg" width="200">](https://www.bilibili.com/video/BV1KbFTz2E8p) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=alphacode&ref=github) |
 | 2022-03-04 | [InstructGPT](https://arxiv.org/abs/2203.02155) | 人类反馈对齐与指令微调 | [<img src="https://learnllm.ai/video_cover/instructgpt.jpg" width="200">](https://www.bilibili.com/video/BV1qVFFzCERD) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=instructgpt&ref=github) |
-| 2022-04 | [DALL·E 2](https://arxiv.org/abs/2204.06125) | 基于 CLIP Latents 的高保真文生图 |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=dalle-2&ref=github) |
+| 2022-04 | [DALL·E 2](https://arxiv.org/abs/2204.06125) | 基于 CLIP Latents 的高保真文生图 | [<img src="https://learnllm.ai/video_cover/DALLE2.jpg" width="200">](https://www.bilibili.com/video/BV1wCDQBkEbx) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=dalle-2&ref=github) |
 | 2022-12 | [Whisper](https://arxiv.org/abs/2212.04356) | 大规模弱监督语音识别基础模型 |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=whisper&ref=github) |
 | 2023-02-27 | [LLaMA-1](https://arxiv.org/pdf/2302.13971) | 高效开源预训练基座模型 | [<img src="https://learnllm.ai/video_cover/llama-1.jpg" width="200">](https://www.bilibili.com/video/BV1PqNMzZEw2) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llama1&ref=github) |
-| 2023-04 | [LLaVA](https://arxiv.org/abs/2304.08485) | 开源多模态指令微调的重要起点 |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llava&ref=github) |
+| 2023-04 | [LLaVA](https://arxiv.org/abs/2304.08485) | 开源多模态指令微调的重要起点 | [<img src="https://learnllm.ai/video_cover/LLaVA.jpg" width="200">](https://www.bilibili.com/video/BV1c2DQB6EtH) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llava&ref=github) |
 | 2023-07-18 | [LLaMA-2](https://arxiv.org/abs/2307.09288) | LLaMA 升级版，开放商用 |  [<img src="https://learnllm.ai/video_cover/llama-2.jpg" width="200">](https://www.bilibili.com/video/BV1ckNMzsEXJ)  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llama2&ref=github) |
 | 2023-08 | [Qwen-VL](https://arxiv.org/abs/2308.12966) | 通义千问早期视觉语言基座模型 |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=qwen-vl&ref=github) |
 | 2023-09-28 | [Qwen 1](https://arxiv.org/abs/2309.16609) | 通义千问第一代基座模型 | [<img src="https://learnllm.ai/video_cover/qwen1.jpg" width="200">](https://www.bilibili.com/video/BV1FdwtziE2M) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=qwen-1&ref=github) |
@@ -129,6 +129,8 @@
 [2022：让模型更听话，InstructGPT 和 RLHF](00-序-AGI之路/大模型年度论文总结/2022.md)
 
 [2023：LLaMA 放出来之后，开源模型开始追上来](00-序-AGI之路/大模型年度论文总结/2023.md)
+
+[2024：开源模型开始重新算训练和推理这笔账](00-序-AGI之路/大模型年度论文总结/2024.md)
 
 [大家都在谈的Scaling_Law是什么](00-序-AGI之路/大家都在谈的ScalingLaw是什么.md)
 
