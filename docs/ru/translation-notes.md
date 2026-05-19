@@ -52,6 +52,13 @@
 - `部署` переводится как `развертывание`, `推理` в runtime-контексте - как `инференс`.
 - `vLLM`, `PagedAttention`, `Text Generation Inference (TGI)`, `TensorRT-LLM`, `Ollama`, `DeepSpeed-Inference`, `KV Cache`, `TTFT`, `Latency`, `Throughput`, `DevOps`, `AIOps`, `MLOps` и `LLMOps` сохраняются в английской форме.
 
+## Раздел 03: Тонкая настройка
+
+- `Adapter` и `Adapters` сохраняются в английской форме в названиях серии; в пояснениях допустимо `адаптер`.
+- `LoRA`, `QLoRA`, `AdaLoRA`, `PEFT`, `Low-Rank Adapter`, `Low-Rank Adaptation`, `Quantized Low-Rank Adaptation`, `NormalFloat (NF4)` и `SVD` сохраняются в английской форме.
+- `low-rank` передается как `низкоранговый`, `rank` - как `ранг`, `parameter budget` - как `бюджет параметров`.
+- `fine-tuning` и `тонкая настройка` используются по контексту; для `параметрически эффективной тонкой настройки` сохраняется аббревиатура `PEFT`.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
