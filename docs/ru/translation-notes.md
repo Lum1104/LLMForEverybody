@@ -47,6 +47,11 @@
 - `Multimodal LLM` передается как `мультимодальная LLM`; `LayerNorm`, `BatchNorm`, `Mamba`, `State Space Model (SSM)`, `selective scan`, `gating`, `routing` и `throughput` сохраняются в английской форме при техническом объяснении.
 - `MoE` раскрывается как `смесь экспертов (MoE)` при первом объяснении, а затем может использоваться сокращение `MoE`.
 
+## Раздел 02: Развертывание и инференс
+
+- `部署` переводится как `развертывание`, `推理` в runtime-контексте - как `инференс`.
+- `vLLM`, `PagedAttention`, `Text Generation Inference (TGI)`, `TensorRT-LLM`, `Ollama`, `DeepSpeed-Inference`, `KV Cache`, `TTFT`, `Latency`, `Throughput`, `DevOps`, `AIOps`, `MLOps` и `LLMOps` сохраняются в английской форме.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
