@@ -60,6 +60,8 @@
 - `fine-tuning` и `тонкая настройка` используются по контексту; для `параметрически эффективной тонкой настройки` сохраняется аббревиатура `PEFT`.
 - `Prompting`, `Soft Prompts`, `Hard Prompts`, `Prompt Tuning`, `Prefix-Tuning`, `P-Tuning`, `Multitask Prompt Tuning (MPT)`, `prompt tokens`, `prompt encoder`, `embedding`, `Causal Language Model`, `NLU`, `PLM`, `encoder-decoder` и `decoder` сохраняются в английской форме.
 - `Hadamard product` передается как `произведение Адамара`; `downstream task` - как `downstream-задача`.
+- `Hugging Face PEFT`, `LLaMA-Factory`, `ModelScope`, `ms-swift`, `Megatron-LM`, `Transformers`, `Diffusers`, `Accelerate`, `Trainer`, `Full Fine-tuning`, `freeze fine-tuning`, `LoRA fine-tuning`, `QLoRA fine-tuning`, `PPO`, `DPO`, `KTO`, `ORPO`, `GaLore`, `DoRA`, `LongLoRA`, `LoftQ` и `LlamaBoard` сохраняются в английской форме.
+- `Full Fine-tuning` при объяснении передается как `обновление всех параметров`; `storage costs` - как `расходы на хранение`.
 
 ## Ссылки на оригиналы
 

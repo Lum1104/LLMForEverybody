@@ -17,10 +17,10 @@ PEFT, LoRA, QLoRA, AdaLoRA, soft prompts и фреймворки для прик
 | Основной раздел | Fine-tuning LLM через Soft Prompts, часть 2: Prompt Tuning | [Перевод](<fine-tuning-llm-soft-prompts-2-prompt-tuning.md>) | [Оригинал](<../../../03-第三章-微调/大模型微调之Soft prompts（二）Prompt Tuning.md>) |
 | Основной раздел | Fine-tuning LLM через Soft Prompts, часть 5: Multitask Prompt Tuning | [Перевод](<fine-tuning-llm-soft-prompts-5-multitask-prompt-tuning.md>) | [Оригинал](<../../../03-第三章-微调/大模型微调之Soft prompts（五）Multitask prompt tuning.md>) |
 | Основной раздел | Fine-tuning LLM через Soft Prompts, часть 4: P-Tuning | [Перевод](<fine-tuning-llm-soft-prompts-4-p-tuning.md>) | [Оригинал](<../../../03-第三章-微调/大模型微调之Soft prompts（四）P-Tuning.md>) |
-| Основной раздел | Фреймворки fine-tuning LLM, часть 1: обзор | — | [Оригинал](<../../../03-第三章-微调/大模型微调框架（一）综述.md>) |
-| Основной раздел | Фреймворки fine-tuning LLM, часть 3: Llama-Factory | — | [Оригинал](<../../../03-第三章-微调/大模型微调框架（三）LLama-Factory.md>) |
-| Основной раздел | Фреймворки fine-tuning LLM, часть 2: Hugging Face PEFT | — | [Оригинал](<../../../03-第三章-微调/大模型微调框架（二）Huggingface-PEFT.md>) |
-| Основной раздел | Parameter-Efficient Fine-Tuning, PEFT, LoRA и другие методы | — | [Оригинал](<../../../03-第三章-微调/大模型的参数高效微调（PEFT），LoRA微调以及其它.md>) |
+| Основной раздел | Фреймворки fine-tuning LLM, часть 1: обзор | [Перевод](<fine-tuning-frameworks-1-overview.md>) | [Оригинал](<../../../03-第三章-微调/大模型微调框架（一）综述.md>) |
+| Основной раздел | Фреймворки fine-tuning LLM, часть 3: Llama-Factory | [Перевод](<fine-tuning-frameworks-3-llama-factory.md>) | [Оригинал](<../../../03-第三章-微调/大模型微调框架（三）LLama-Factory.md>) |
+| Основной раздел | Фреймворки fine-tuning LLM, часть 2: Hugging Face PEFT | [Перевод](<fine-tuning-frameworks-2-huggingface-peft.md>) | [Оригинал](<../../../03-第三章-微调/大模型微调框架（二）Huggingface-PEFT.md>) |
+| Основной раздел | Parameter-Efficient Fine-Tuning, PEFT, LoRA и другие методы | [Перевод](<parameter-efficient-fine-tuning-peft-lora-and-other-methods.md>) | [Оригинал](<../../../03-第三章-微调/大模型的参数高效微调（PEFT），LoRA微调以及其它.md>) |
 
 ## Полные переводы
 
@@ -33,6 +33,10 @@ PEFT, LoRA, QLoRA, AdaLoRA, soft prompts и фреймворки для прик
 - [Fine-tuning LLM через Soft Prompts, часть 3: Prefix-Tuning](<fine-tuning-llm-soft-prompts-3-prefix-tuning.md>)
 - [Fine-tuning LLM через Soft Prompts, часть 4: P-Tuning](<fine-tuning-llm-soft-prompts-4-p-tuning.md>)
 - [Fine-tuning LLM через Soft Prompts, часть 5: Multitask Prompt Tuning](<fine-tuning-llm-soft-prompts-5-multitask-prompt-tuning.md>)
+- [Фреймворки fine-tuning LLM, часть 1: обзор](<fine-tuning-frameworks-1-overview.md>)
+- [Фреймворки fine-tuning LLM, часть 2: Hugging Face PEFT](<fine-tuning-frameworks-2-huggingface-peft.md>)
+- [Фреймворки fine-tuning LLM, часть 3: Llama-Factory](<fine-tuning-frameworks-3-llama-factory.md>)
+- [Parameter-Efficient Fine-Tuning, PEFT, LoRA и другие методы](<parameter-efficient-fine-tuning-peft-lora-and-other-methods.md>)
 
 ## Примечание по локализации
 
