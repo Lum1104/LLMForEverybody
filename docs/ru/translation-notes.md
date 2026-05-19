@@ -68,6 +68,11 @@
 - `квантизация` используется как основной перевод для `量化`; `PTQ`, `QAT`, `INT8`, `AWQ`, `GPTQ`, `SmoothQuant`, `KV Cache`, `GGUF`, `GGML`, `llama.cpp`, `Ollama`, `vLLM`, `SGLang`, `BitsAndBytes`, `Inflight quantization`, `Dynamic Quantization`, `Hessian` и `OBS` сохраняются в английской форме.
 - `Quantization Granularity` передается как `гранулярность квантизации`, `zero-point` сохраняется в английской форме, `Hadamard product` при необходимости передается как `произведение Адамара`.
 
+## Раздел 05: GPU и параллелизм
+
+- `GPU`, `CPU`, `DDP`, `FSDP`, `Distributed Data Parallel`, `Fully Sharded Data Parallel`, `ZeRO`, `all-reduce`, `reduce-scatter`, `all-gather`, `Offload`, `FP32`, `FP16`, `BF16`, `FLOPs`, `FLOPS`, `TOPS`, `MAC`, `HBM`, `SRAM`, `Tensor Core`, `NVLink`, `NVSwitch`, `InfiniBand`, `TP` и `PP` сохраняются в английской форме.
+- `显存` передается как `видеопамять`; `计算` - как `вычисления` или `вычислительная мощность`; `通信` - как `коммуникация`.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
