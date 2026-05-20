@@ -73,6 +73,11 @@
 - `GPU`, `CPU`, `DDP`, `FSDP`, `Distributed Data Parallel`, `Fully Sharded Data Parallel`, `ZeRO`, `all-reduce`, `reduce-scatter`, `all-gather`, `Offload`, `FP32`, `FP16`, `BF16`, `FLOPs`, `FLOPS`, `TOPS`, `MAC`, `HBM`, `SRAM`, `Tensor Core`, `NVLink`, `NVSwitch`, `InfiniBand`, `TP` и `PP` сохраняются в английской форме.
 - `显存` передается как `видеопамять`; `计算` - как `вычисления` или `вычислительная мощность`; `通信` - как `коммуникация`.
 
+## Раздел 06: Prompt Engineering
+
+- `Prompt Engineering`, `prompt`, `prompt injection`, `jailbreak`, `DAN`, `CoT`, `ToT`, `GoT`, `Chain-of-Thought`, `Tree-of-Thought`, `Graph-of-Thought`, `Self-Consistency`, `Auto-CoT`, `few-shot`, `zero-shot`, `RLHF`, `Reward model`, `PPO`, `DPO`, `ORPO`, `alignment` и `red teaming` сохраняются в английской форме по контексту.
+- `思维链` передается как `цепочка рассуждений`, `思维树` - как `дерево рассуждений`, `思维图` - как `граф рассуждений`; `越狱` в контексте LLM передается как `jailbreak`.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
