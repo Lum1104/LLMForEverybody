@@ -94,6 +94,11 @@
 - `复读机问题` передается как `проблема повторов` или образно `проблема "LLM-попугая"`; `智能涌现失败` - как `неудачная эмерджентность интеллекта`.
 - `红队测试` передается как `red teaming`; `提示词注入` - как `prompt injection`; `越狱` - как `jailbreaking`.
 
+## Раздел 09: Метрики оценки
+
+- `评估指标` передается как `метрики оценки`; `性能评测` - как `оценка производительности`.
+- `Needle In A Haystack`, `Counting Stars`, `long-context`, `Ground Truth`, `accuracy`, `Cross Entropy`, `Entropy`, `Perplexity`, `BLEU`, `ROUGE`, `N-gram`, `benchmark`, `GLUE`, `SuperGLUE`, `SQuAD`, `CoLA`, `CMMLU`, `MathEval`, `Arena`, `Leaderboard` и `Chatbot Arena` сохраняются в английской форме по контексту.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
